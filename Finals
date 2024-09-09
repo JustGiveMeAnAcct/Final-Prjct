@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Final</title>
+</head>
+<body>
+    <main>
+        <a href="https://warhammer40k.fandom.com/wiki/Emperor_of_Mankind"><img src="TheEmperor.webp" alt="The Imperium watches" width="25%"></a>
+        <h1>DOES THE EMPEROR PROTECTS!</h1>
+        <br>
+    
+        <p style="font-size: 20px;">Lets ask some good ol' imperials</p>
+        <ol>
+            <li><a href="https://warhammer40k.fandom.com/wiki/Saint_Celestine?so=search"><img src="Saint.webp" alt="The Imperium watches through divine wings" width="5%"> </a> The Saint agrees</li>
+            <li><a href="https://warhammer40k.fandom.com/wiki/Space_Marines?so=search"><img src="marine.jpg" alt="The Imperium watches with bolter and blade" width="5%"> </a> The Marine angrily agrees</li>
+            <li><a href="https://1d6chan.miraheze.org/wiki/Commissar"><img src="commisar.jpg" alt="The Commissar watches always" width="5%"> </a> The Commissar...he's just angry</li>
+
+            
+            
+        </ol>
+    </main>
+    <footer>Each pic will take you to a source explaining each reference.</footer>
+</body>
+</html>
